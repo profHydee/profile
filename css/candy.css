@@ -1,0 +1,31 @@
+body{
+    background-color:#f5d9d5;
+}
+#mainNav{
+    font-size:1.2rem;
+}
+
+#mainNav .navbar-brand, #mainNav .nav-link:hover, #main1 h2, #main1 p, #header span{
+    color:#ea1c2c;
+}
+#mainNav .nav-link{
+    color:#ffffff;
+}
+#header h2{
+    color:#ffffff;
+    font-size:3rem;
+    font-weight:100;
+}
+.navbar.scrolled{
+    background-color:rgb(222, 192, 222)
+}
+@media (max-width:1200px){
+    #header h2{
+        color:#ffffff;
+        font-size:1.7rem;
+        font-weight:100;
+    }
+    #header span{
+        color:#ea1c2c;
+    }
+}

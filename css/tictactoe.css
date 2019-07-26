@@ -1,0 +1,27 @@
+table{
+    margin: auto;
+}
+h2{
+    padding : 10px 0px;
+    text-align:center;
+}
+/*table{
+    
+    border:5px solid #000000;
+}*/
+td{
+    width:100px;
+    height:100px;
+}
+td.left{
+    border-right: 2px solid #000000;
+}
+td.middle{
+    border-top: 2px solid #000000;
+    border-bottom: 2px solid #000000;
+    border-right: 2px solid #000000;
+}
+td.middle1{
+    border-top: 2px solid #000000;
+    border-bottom: 2px solid #000000;
+}

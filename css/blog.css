@@ -1,0 +1,26 @@
+body{
+    
+    max-width:700px;
+    width:80%;
+    margin: auto;
+}
+div.container{
+    border: 20px solid #bdc3c7;
+    padding: 20px;
+    margin-top:20px;
+}
+p.date {
+
+    color:#3498db;
+    text-transform:uppercase;
+    letter-spacing:2.5px;
+    
+}
+
+p.border{
+    border-left:8px solid #bdc3c7;
+    padding-left:8px;
+}
+h2{
+    color:#2c3e50;
+}
