@@ -53,7 +53,7 @@ nav#mainNav{
 
 /*landing page css*/
 
-body{
+body #frontpage{
     background: url(../images/apple-design-d.jpg);
     background-size:cover;
     
